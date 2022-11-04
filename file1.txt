@@ -1,2 +1,2 @@
 hello this is file 1
-extra lines added in teh file2
+extra line added in the file1
